@@ -1,0 +1,17 @@
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "description": "A frontend application with CI/CD setup using GitHub Actions.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Building the application...'",
+    "test": "echo 'Running tests...'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
